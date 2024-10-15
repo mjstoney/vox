@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/mstoney/Desktop/dev/cplusplus/libraries/glfw3/include",
+                "C:/Users/mstoney/Desktop/dev/cplusplus/libraries/glad/include",
+                "C:/Users/mstoney/Desktop/dev/cplusplus/libraries/glm",
+                "C:/Users/mstoney/Desktop/dev/cplusplus/libraries/imgui",
+                "C:/Users/mstoney/Desktop/dev/cplusplus/libraries/imgui/backends",
+                "C:/Users/mstoney/Desktop/dev/cplusplus/libraries/FastNoiseLite/Cpp",
+                "C:/Users/mstoney/Desktop/dev/cplusplus/libraries/OBJ_Loader"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/Users/mstoney/Path/winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1/mingw64/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
